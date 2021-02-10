@@ -1,0 +1,4 @@
+﻿  DllMain.cpp
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/OPT:ICF' specification
+     Creating library C:\Users\otgoo\source\repos\D2FPS\Release\D2FPS.lib and object C:\Users\otgoo\source\repos\D2FPS\Release\D2FPS.exp
+  D2FPS.vcxproj -> C:\Users\otgoo\source\repos\D2FPS\Release\D2FPS.dll
